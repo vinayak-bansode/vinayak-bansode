@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="[https://random-memer.herokuapp.com/](https://www.google.com/imgres?imgurl=https%3A%2F%2Fxperti.io%2Fblogs%2Fwp-content%2Fuploads%2F2020%2F04%2FBest-Coding-Practices.jpg&imgrefurl=https%3A%2F%2Fxperti.io%2Fblogs%2Ftop-java-developers-share-their-best-coding-practices%2F&tbnid=ACE-vrDPGmmVOM&vet=1&docid=vQgZXBLm8MFHcM&w=1200&h=628&source=sh%2Fx%2Fim)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vinayak-bansode&icon=2&color=1)](https://visitcount.itsvg.in)
